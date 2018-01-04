@@ -1,0 +1,7 @@
+[user]
+	email = seun.dawodu@rhodiumsoftware.co.uk
+	name = Seun Dawodu
+[core]
+	editor = vim
+[rebase]
+	autosquash = true
